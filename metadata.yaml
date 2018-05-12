@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/842
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Burke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18315#The-Works-of-the-Right-Honourable-Edmund-Burke-Vol.-12--of-12-
 gutenberg_issued: '2006-05-05'
 gutenberg_type: Text
 identifiers:
